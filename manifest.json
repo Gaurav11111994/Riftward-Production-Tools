@@ -1,0 +1,16 @@
+{
+  "name": "Riftward Master Blender Production Skill",
+  "slug": "riftward-master-blender-production",
+  "version": "1.0.0",
+  "date": "2026-09-30",
+  "entrypoint": "SKILL.md",
+  "references": [
+    "references/REFERENCE_BANK.md"
+  ],
+  "project": "Riftward",
+  "worlds": ["S01", "S02", "S03", "S04", "S05"],
+  "purpose": "Reference-driven Blender hero refinement, modeling, UV, baking, PBR texturing, materials, lookdev, LOD, export and visual validation.",
+  "core_principle": "Riftward references define what to build; learning assets teach how to build and polish it.",
+  "third_party_assets_included": false,
+  "license_note": "No commercial/source learning assets are redistributed by this repository."
+}
